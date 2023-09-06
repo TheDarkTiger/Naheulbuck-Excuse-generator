@@ -1,0 +1,4 @@
+HIGH	Read excuses from external files
+HIGH	Add GUI
+
+low	Add sound
